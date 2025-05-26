@@ -27,4 +27,3 @@ See LICENSE.txt for details.
 ## Author
 
 Dax Gigandet
-
